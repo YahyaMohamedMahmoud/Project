@@ -1,0 +1,35 @@
+footer {
+  background-color: #e4e4e4;
+  padding: 10px;
+  border: 1px solid #aaaaaa;
+  margin-top: 3px;
+  text-align: center;
+}
+footer .copy h4 {
+  margin-top: 10px;
+  font-family: OpenSans-Light;
+  font-size: 13px;
+  margin-bottom: 60px;
+  letter-spacing: 1px;
+}
+footer .links a {
+  text-decoration: none;
+  font-family: OpenSans-Regular;
+}
+footer .links a:not(:first-child) {
+  margin-inline-start: 50px;
+}
+footer .information {
+  text-align: start;
+}
+footer .information h5 {
+  padding: 15px 250px 0;
+  font-size: 15px;
+  margin: 10px 0;
+}
+footer .information p {
+  padding: 15px 250px;
+  font-size: 14px;
+  font-family: OpenSans-Regular;
+  line-height: 23px;
+}

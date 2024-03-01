@@ -1,0 +1,23 @@
+/* css files for website */
+
+
+/* base file in css */
+@import url("./base/base.css");
+/* base file in css */
+
+
+
+/* pages files in css */
+@import url("./pages/home.css");
+/* pages files in css */
+
+
+
+/* layout (footer) style */
+@import url("./layout/footer.css");
+/* layout (footer) style */
+
+
+/* responsive file for website */
+@import url("./responsive/responsive.css");
+/* responsive file for website */

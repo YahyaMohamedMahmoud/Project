@@ -1,0 +1,37 @@
+/* Fonts file in website */
+@import url("fonts.css");
+/* Fonts file in website */
+
+/* Base selector */
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+img {
+  width: 100%;
+  display: block;
+}
+.container {
+  width: 70%;
+  margin: auto;
+  border-radius: 5px;
+  box-shadow: 0px 0px 3px 1px #a7a7a7;
+  padding-bottom: 200px;
+  background-color: white;
+}
+body {
+  font-family: OpenSans-Medium;
+  background-color: #f1f1f1;
+}
+h1,
+h2,
+h3,
+h4,
+span {
+  font-family: OpenSans-Bold;
+}
+a {
+  text-decoration: none;
+}
+/* Base selector */
